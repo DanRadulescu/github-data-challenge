@@ -50,8 +50,17 @@ svg {
   float: left;
 }
 
-#floatingContent{
+#mainContent{
+  margin-top: -39px;
+}
 
+#floatingContent{
+  margin-top: -163px;
+  margin-left: 29px;
+}
+
+#footer{
+  margin-top: 107px;
 }
 
 #footer-logo{
