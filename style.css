@@ -83,9 +83,9 @@ svg {
 #arcs path {
   fill: none;
   stroke-opacity: .9;
-  stroke: #4183C4;
+  stroke: #000000;
 }
 
 #cities circle {
-  fill: #234a70;
+  fill: #FF3300;
 }
